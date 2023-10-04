@@ -1,0 +1,14 @@
+Git configuration setup
+1. git config --global user.name "<your-username>"
+2. git config --global user.name
+3. git config --global user.email "<your-email>"
+4. git config --global user.email
+
+
+5. git init
+    => Initializes a repository
+6. git status
+    => Displays the current status of files and commits in the git repo
+7. git add .
+    => adds all the changes to the git repo
+
