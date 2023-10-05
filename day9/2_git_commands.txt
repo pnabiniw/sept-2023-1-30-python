@@ -20,3 +20,6 @@ Git configuration setup
 
 10. git branch
     => Displays all the branches and highlights the current branch
+
+
+11. git merge <branch_name>
