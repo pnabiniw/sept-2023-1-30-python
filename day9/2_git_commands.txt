@@ -12,3 +12,11 @@ Git configuration setup
 7. git add .
     => adds all the changes to the git repo
 
+8. git commit -m "<commit-message>"
+    => Provide a message to your commit
+
+9. git branch -M main
+    => Changes the root branch to "main"
+
+10. git branch
+    => Displays all the branches and highlights the current branch

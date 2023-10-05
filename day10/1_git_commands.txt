@@ -1,0 +1,20 @@
+1. git remote add origin <repo-ssh-link>
+    => Adds remote repo alias name in the local repo
+2. git remote -v
+    => It displays all the available remote repos name
+
+3. ssh-keygen -t rsa -b 4096 -C "your_email@example.com"
+    => Generates a new ssh key
+
+4. git branch
+    => Displays all the branches and highlights the current branch
+
+5. git branch <branch_name>
+    => Creates a new branch
+
+6. git checkout <branch_name>
+    => Jumps to the provided branch_name
+
+7. git checkout -b <branch_name>
+    => Creates a new branch <branch_name> and jumps to that branch
+
