@@ -18,8 +18,12 @@ Git configuration setup
 9. git branch -M main
     => Changes the root branch to "main"
 
-10. git branch
+10. git push -u origin <branch_name>
+    => pushes the code from the local branch to the branch_name provided
+
+11. git branch
     => Displays all the branches and highlights the current branch
 
 
-11. git merge <branch_name>
+12. git merge <branch_name>
+    => Merges the code from the branch_name provided to the current branch
