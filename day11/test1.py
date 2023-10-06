@@ -8,3 +8,5 @@ print(prod)
 
 add = a + b
 print(add)
+div = a / b
+print(div)
