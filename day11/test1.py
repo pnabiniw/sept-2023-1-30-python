@@ -5,3 +5,6 @@ print(sub)
 
 prod = a * b
 print(prod)
+
+add = a + b
+print(add)
