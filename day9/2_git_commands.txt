@@ -27,3 +27,5 @@ Git configuration setup
 
 12. git merge <branch_name>
     => Merges the code from the branch_name provided to the current branch
+
+13. git clone <repo-ssh-link>

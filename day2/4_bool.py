@@ -52,6 +52,7 @@ e = {"name": "Jon"}
 f = "hello"
 g = True
 
+
 print(bool(a))  # True
 print(bool(b))  # True
 print(bool(c))  # True
