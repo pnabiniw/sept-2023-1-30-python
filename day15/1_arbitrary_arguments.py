@@ -21,4 +21,3 @@ def summation(**kwargs):
 print(summation(a=1, b=2))  # 3
 print(summation(a=1, b=2, c=3))  # 6
 print(summation(a=1, b=2, c=3, d=4))  # 10
-
