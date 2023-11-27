@@ -1,6 +1,8 @@
-{
-  "id": "2",
-  "name": "Jane",
-  "age": "30",
-  "address": "PKR"
-}
+[
+  {
+    "id": "1",
+    "name": "Hari",
+    "age": "30",
+    "address": "KTM"
+  }
+]

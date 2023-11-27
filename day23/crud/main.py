@@ -11,13 +11,17 @@ def inquiry():
     def exit_message():
         print("Thank you. See you again !!")
     if selection == "c":
-        create_student()
+        repeat = create_student()
+        inquiry() if repeat else exit_message()
     elif selection == "r":
-        read_student()
+        repeat = read_student()
+        inquiry() if repeat else exit_message()
     elif selection == "u":
-        update_student()
+        repeat = update_student()
+        inquiry() if repeat else exit_message()
     elif selection == "d":
-        delete_student()
+        repeat = delete_student()
+        inquiry() if repeat else exit_message()
     else:
         exit_message()
 
