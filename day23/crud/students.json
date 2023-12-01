@@ -16,5 +16,11 @@
     "name": "Hari",
     "age": "30",
     "address": "KTM"
+  },
+  {
+    "id": "4",
+    "name": "Rita",
+    "age": "30",
+    "address": "KTM"
   }
 ]
